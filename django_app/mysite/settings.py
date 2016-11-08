@@ -26,7 +26,7 @@ SECRET_KEY = '^2njx!vgw*sli+=2bsc4b(2gx!r&c#^+28*h7@ob*ojcn2dvr_'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'http://ec2-52-78-17-235.ap-northeast-2.compute.amazonaws.com',
+    '.amazonaws.com',
     '.unripers.com',
 ]
 
